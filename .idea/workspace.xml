@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9af5bbdc-22c6-4e5d-b1d9-827001479c2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Cuadrilatero.java" afterPath="$PROJECT_DIR$/src/main/java/Cuadrilatero.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestPunto.java" afterPath="$PROJECT_DIR$/src/test/java/TestPunto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" afterPath="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
     </list>
     <ignored path="1.0.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="TestCuadrilatero.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.0602095">
-              <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.565445">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -80,9 +79,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/TestCalculadora.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestPunto.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cuadrilatero.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
       </list>
     </option>
   </component>
@@ -570,7 +569,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465505131361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="todos los tests comentados funcionan">
+      <created>1465505618324</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1465505618324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -716,8 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCuadrilatero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.0602095">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.565445">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding />
         </state>
       </provider>
