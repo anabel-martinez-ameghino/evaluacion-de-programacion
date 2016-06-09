@@ -5,7 +5,6 @@ import org.junit.Test;
  * Created by damian on 20/05/16.
  */
 public class TestCuadrilatero {
-/*
 
     @Test
     public void crearCuadrilatero() {
@@ -25,6 +24,11 @@ public class TestCuadrilatero {
     }
 
 
+
+
+
+
+
     @Test
     public void calcularPerimetro() {
         Punto esquinaInferiorIzquierda = new Punto(6, 2);
@@ -35,6 +39,8 @@ public class TestCuadrilatero {
         Assert.assertEquals(8, cuadradado.perimetro());
 
     }
+
+
 
     @Test
     public void calcularPerimetro2() {
@@ -56,8 +62,9 @@ public class TestCuadrilatero {
         Assert.assertEquals(50, cuadradado.area());
     }
 
+
     @Test
-    public void calcularArea() {
+    public void calcularArea2() {
         Punto esquinaInferiorIzquierda = new Punto(2, 2);
         Punto esquinaSuperiorDerecha = new Punto(4, 4);
 
@@ -80,6 +87,7 @@ public class TestCuadrilatero {
 
         Assert.assertEquals(200, cuadradado.area());
     }
+/*
 
     @Test
     public void estanIncluidosPuntos() {
@@ -108,10 +116,12 @@ public class TestCuadrilatero {
         Assert.assertTrue(cuadradado.noEstaIncluido(p7));
         Assert.assertTrue(cuadradado.noEstaIncluido(p8));
         Assert.assertTrue(cuadradado.noEstaIncluido(p9));
-    }
+    }*/
 
 
-*/
+
+
+
 
 
 }

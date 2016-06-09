@@ -6,7 +6,7 @@ import org.junit.Test;
  */
 public class TestPunto {
 
-/*
+
 
     @Test
     public void desplazarEn10X() {
@@ -115,6 +115,6 @@ public class TestPunto {
         Assert.assertEquals(punto3.x, 3);
         Assert.assertEquals(punto3.y, 5);
     }
-*/
+
 
 }
